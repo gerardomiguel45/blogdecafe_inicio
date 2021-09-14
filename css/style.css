@@ -247,7 +247,7 @@ img {
     background-repeat: no-repeat;
 }
 
-@media (min-width: ) {
+@media (min-width: 768px) {
     .formulario {
         background-color: var(--blanco);
         margin: -5rem auto 0 auto;
